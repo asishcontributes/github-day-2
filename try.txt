@@ -5,4 +5,10 @@ i am doing
 i am changed by asish branch
 changed for github
 i am changed by git editor
+<<<<<<< HEAD
  iam on asish branch learning merge conflict
+=======
+i am on asish branch learning merge conflect 
+ghcgfdvgdhd
+chgvfcb
+>>>>>>> asish
